@@ -1,0 +1,23 @@
+.container{
+    width:350px;
+    height:200px;
+    margin:50px auto;
+    border:1px solid lightgray;
+    border-radius:14px;
+    text-align: center;
+    position:relative;
+}
+
+#btn{
+    background-color: black;
+    color:white;
+    padding:8px 15px;
+    border:none;
+    border-radius:14px;
+    position:absolute;
+    bottom:20px;
+    right:150px;
+
+
+
+}
